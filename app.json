@@ -1,5 +1,5 @@
 {
-    "name": "ForceSub Bot",
+    "name": "MX Force Sub Bot",
     "description": "A telegram force subscribe bot for promote channels.",
     "logo": "https://telegra.ph/file/a89c5263890ccb0f7f01d.jpg",
     "keywords": [
@@ -8,9 +8,9 @@
         "Telegram Bot",
         "SD Bots"
     ],
-    "website": "https://t.me/SDBOTs_inifinity",
-    "repository": "https://github.com/sadew451/SD-ForceSubBot",
-    "success_url": "https://t.me/SDBOTs_inifinity",
+    "website": "https://t.me/Master_X_Updates",
+    "repository": "https://github.com/Team-MasterXBots/MXForceSubBot",
+    "success_url": "https://t.me/Master_X_Updates",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
